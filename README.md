@@ -5,8 +5,11 @@ A simple ELK (Elasticsearch, Logstash and Kibana) docker compose template.
 You'll need to install docker first.
 Then setup all config files for each service at `config` directory
 You can see all details in these URLs.
+
 https://hub.docker.com/_/elasticsearch
+
 https://hub.docker.com/_/logstash/
+
 https://hub.docker.com/_/kibana/
 
 
