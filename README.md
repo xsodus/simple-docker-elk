@@ -1,4 +1,4 @@
-# Docker-ELK
+# Simple Docker ELK
 A simple ELK (Elasticsearch, Logstash and Kibana) docker compose template.
 
 #### Setup
