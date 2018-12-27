@@ -1,5 +1,5 @@
 # Simple Docker ELK
-A simple ELK (Elasticsearch, Logstash and Kibana) docker compose template.
+A simple ELK (Elasticsearch, Logstash and Kibana) docker compose template. I just created this project to learn how to setup and run this stack.
 
 #### Setup
 You'll need to install docker first.
